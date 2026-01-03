@@ -1,0 +1,21 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "this is a readme file",
+  "homepage": "https://github.com/kaushalprajapati04/Demo#readme",
+  "bugs": {
+    "url": "https://github.com/kaushalprajapati04/Demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushalprajapati04/Demo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
